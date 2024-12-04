@@ -17,9 +17,6 @@
 ✅ 대학 생활의 중요한 순간 기록 및 추억 아카이브
 
 
-## 🛠️기술 스택
-
-![image](https://github.com/pado0711/DokProject-backend/assets/109504714/7a17adbd-a1f2-418d-a41e-40ba4c980530)
 
 <br/>
 <br/>
@@ -47,13 +44,14 @@
 
      
 
-## 💡프로젝트 실 서비스
+## 💡프로젝트 실 서비스 
 
 - 서비스 기간:  2024.11.05 ~ 2024.11.07 (3일간)
 - 프로젝트 실 서비스를 위해 본교 총학생회 컨택 성공
     - 학교 공식 sns에 서비스 소개 포스트 업로드, 각 학과 카카오톡 공지방 홍보
+ 
     
-    [인스타그램 전남대학교 축제 ‘전대미문(聞)’서비스 소개 포스트 보러가기](https://www.instagram.com/p/DB6Qe17PfIG/?igsh=MTNmdzhzN3g0NGxxeg==)
+    [인스타그램 전남대학교 축제 ‘전대미문(聞)’서비스 기능 소개 포스트 보러가기](https://www.instagram.com/p/DB6Qe17PfIG/?igsh=MTNmdzhzN3g0NGxxeg==)
     
 
 <br/><br/><br/><br/>
